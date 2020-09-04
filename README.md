@@ -5,4 +5,6 @@ CBD (Epidiolex) is claimed to be therapeutic in a wide array of diseases, arguab
 
 # Results:
 There are a couple of incorrect entries, like people putting 'CBD' in the `Conditions` field instead of in the `Interventions` field. Unsurprisingly `Epilepsy` is the most-investigated condition (could be grouped with `Dravet` and `Lennox-Gastaut`) and also no surprises that COVID-19 pops up a few times
+
+
 ![alt text](visualization.svg "Title")
